@@ -11,5 +11,6 @@ while i < collection.length
   i += 1
 end
 
+return true
 
 end
