@@ -1,7 +1,7 @@
 require 'pry'
 
 def my_all?(collection)
-i = 1
+i = 0
 while i < collection.length
   yield(collection {|i| i < 3})
 
