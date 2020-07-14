@@ -7,10 +7,6 @@ while i < collection.length
 
   i += 1
 end
-# end
-# if collection.include?(false)
-#     false
-#   else
-#     true
+
 
 end
